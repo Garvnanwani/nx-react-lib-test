@@ -2,7 +2,9 @@
   "name": "nx-test",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "install": "node ./scripts/install.js"
+  },
   "private": true,
   "dependencies": {
     "react": "18.2.0",
